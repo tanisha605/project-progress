@@ -14,4 +14,4 @@ watched videos on python,numpy,matplotlib and scipy.(5 days to complete it
 first assignment 
 
 
-watched 30 videos of opencv
+completed watching all videos of opencv
